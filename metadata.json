@@ -1,0 +1,8 @@
+{
+  "name": "kellyseekv2",
+  "description": "An immersive AI companion with real-time voice and text interaction, featuring fluid animations and a reactive visual interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
